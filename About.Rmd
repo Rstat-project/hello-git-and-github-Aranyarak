@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: "楊世蘭"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+泰國的北部
 
 - 我決定來這裡的動機？
 
-NULL
+我的夢想是到台灣留學，成大是一個很好的地方，而且有一個助於學習的環境。
 
 - 我對這門課的期望？
 
-NULL
+能夠統計資料，清理資料，等等能力，也希望和大家認識認識。
